@@ -1,36 +1,56 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi 👋, it's Sahil here.
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+I am a web developer and I am good at  Javascript, React-JS, HTML, and CSS. I love to learn and build something new, productive, innovative and creative.
+
+- **I am interested in  Web development**
+
+* 🌱 I’m currently learning ...
+  - React js
+  - Frontend skills
+  - Javascript
+
+* 👯 I’m looking forward to collaborate on open source projects.
+* ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+
+---
+
+## 👩💻 What I am Good at ‍:
+
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" width="45px" src="https://img.icons8.com/color/256/git.png" />
+<img align="left" width="45px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" />
+<img align="left" width="45px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
+<img align="left" width="45px" height="45px" src="https://vitejs.dev/logo.svg" />
+
+<br><br>
+
+
+## 📈 Github Stats:
+
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img width="695" alt="image" src="https://github.com/sahil1si18ec083/sahil1si18ec083/assets/103936307/886f2908-c424-4bb7-b7d7-c39c18a7acd7">
+<br/><br/>
+  
 </div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
+<br>
+
+---
+
